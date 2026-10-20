@@ -1,0 +1,146 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 3 /Kids [6 0 R 7 0 R 8 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 9 0 R >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 11 0 R >>
+endobj
+9 0 obj
+<< /Length 3619 >>
+stream
+BT /F2 20 Tf 1 0 0 1 72.64 759.89 Tm (Factores de conversión y el Sistema Internacional) Tj ET
+BT /F3 11 Tf 1 0 0 1 221.30 740.89 Tm (Física y Química · 2º de ESO) Tj ET
+56 728.89 m 539.28 728.89 l 0.6 w S
+BT /F2 14 Tf 1 0 0 1 56.00 700.89 Tm (¿Qué es un factor de conversión?) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 681.89 Tm (Un factor de conversión es una fracción que vale 1 porque el numerador y el denominador representan) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 666.89 Tm (la misma cantidad expresada en dos unidades distintas. Como vale 1, podemos multiplicar por él sin) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 651.89 Tm (cambiar el valor de la magnitud, solo cambia la unidad en que se expresa.) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 632.89 Tm (Ejemplo: como 1 km = 1000 m, podemos escribir dos factores de conversión:) Tj ET
+BT /F2 11 Tf 1 0 0 1 76.00 613.89 Tm (\(1000 m / 1 km\)   y   \(1 km / 1000 m\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 596.89 Tm (Elegimos el que coloca la unidad que queremos eliminar en el lugar contrario para que se simplifique) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 581.89 Tm (\(arriba con abajo\).) Tj ET
+BT /F2 14 Tf 1 0 0 1 56.00 557.89 Tm (Unidades del Sistema Internacional \(SI\) que usaremos) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 538.89 Tm (• Longitud: metro \(m\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 522.89 Tm (• Masa: kilogramo \(kg\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 506.89 Tm (• Tiempo: segundo \(s\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 490.89 Tm (• De estas se derivan otras, como la velocidad: metro por segundo \(m/s\).) Tj ET
+BT /F2 14 Tf 1 0 0 1 56.00 466.89 Tm (Prefijos útiles) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 447.89 Tm (kilo \(k\) = 1000      hecto \(h\) = 100      deca \(da\) = 10) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 431.89 Tm (deci \(d\) = 0,1       centi \(c\) = 0,01      mili \(m\) = 0,001) Tj ET
+BT /F2 14 Tf 1 0 0 1 56.00 407.89 Tm (Pasos para resolver con factores de conversión) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 388.89 Tm (1. Escribe la cantidad de partida con su unidad.) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 372.89 Tm (2. Multiplica por el factor \(o factores\) necesario.) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 356.89 Tm (3. Coloca cada unidad de modo que se simplifique la que sobra.) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 340.89 Tm (4. Opera: multiplica los números de arriba y divide por los de abajo.) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 324.89 Tm (5. Comprueba que la unidad final es la que pedía el enunciado \(la del SI\).) Tj ET
+56 316.89 m 539.28 316.89 l 0.6 w S
+BT /F2 14 Tf 1 0 0 1 56.00 288.89 Tm (Ejemplo resuelto paso a paso) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 269.89 Tm (Pasa 36 km/h a m/s \(unidades del SI\).) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 250.89 Tm (Partimos de 36 km/h y usamos dos factores: uno para km->m y otro para h->s.) Tj ET
+BT /F2 11 Tf 1 0 0 1 76.00 232.89 Tm (36 km     1000 m      1 h) Tj ET
+BT /F2 11 Tf 1 0 0 1 76.00 216.89 Tm (------- · -------- · ------) Tj ET
+BT /F2 11 Tf 1 0 0 1 76.00 200.89 Tm (1 h      1 km      3600 s) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 182.89 Tm (Se simplifican 'km' \(arriba y abajo\) y 'h' \(arriba y abajo\).) Tj ET
+BT /F2 11 Tf 1 0 0 1 76.00 165.89 Tm (= \(36 · 1000\) / 3600 m/s = 36000 / 3600 m/s = 10 m/s) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 147.89 Tm (Resultado: 36 km/h = 10 m/s) Tj ET
+56 139.89 m 539.28 139.89 l 0.6 w S
+BT /F2 14 Tf 1 0 0 1 56.00 111.89 Tm (Ejercicios para resolver) Tj ET
+BT /F3 11 Tf 1 0 0 1 56.00 92.89 Tm (Resuelve cada apartado escribiendo los factores de conversión y desarrollándolos paso a paso hasta) Tj ET
+BT /F3 11 Tf 1 0 0 1 56.00 77.89 Tm (llegar a la unidad del SI. No olvides simplificar las unidades.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Length 3230 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (1. Longitud) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 752.89 Tm (a\) Expresa 5 km en metros \(m\).) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 734.89 Tm (b\) Expresa 250 cm en metros \(m\).) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 716.89 Tm (c\) Expresa 3,2 km en metros \(m\).) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 698.89 Tm (d\) Expresa 750 mm en metros \(m\).) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 676.89 Tm (2. Masa) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 658.89 Tm (a\) Expresa 4 t \(toneladas\) en kilogramos \(kg\).) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 640.89 Tm (b\) Expresa 2500 g en kilogramos \(kg\).) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 622.89 Tm (c\) Expresa 0,75 t en kilogramos \(kg\).) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 604.89 Tm (d\) Expresa 850 mg en kilogramos \(kg\).) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 582.89 Tm (3. Tiempo) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 564.89 Tm (a\) Expresa 3 h en segundos \(s\).) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 546.89 Tm (b\) Expresa 45 min en segundos \(s\).) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 528.89 Tm (c\) Expresa 2 h 30 min en segundos \(s\).) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 510.89 Tm (d\) Expresa 1 día en segundos \(s\).) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 488.89 Tm (4. Velocidad \(doble factor\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 470.89 Tm (a\) Pasa 72 km/h a m/s.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 452.89 Tm (b\) Pasa 90 km/h a m/s.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 434.89 Tm (c\) Pasa 20 m/s a km/h.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 416.89 Tm (d\) Pasa 108 km/h a m/s.) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 394.89 Tm (5. Problemas en contexto) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 376.89 Tm (a\) Un atleta corre a 5 m/s. ¿A cuántos km/h va?) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 358.89 Tm (b\) Una botella contiene 1,5 L de agua. Exprésalo en mL.) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 340.89 Tm (c\) Un camión pesa 7,5 t. ¿Cuántos kg son?) Tj ET
+BT /F1 11 Tf 1 0 0 1 72.00 322.89 Tm (d\) Un viaje dura 90 min. Exprésalo en segundos \(s\).) Tj ET
+56 311.89 m 539.28 311.89 l 0.6 w S
+BT /F2 13 Tf 1 0 0 1 56.00 284.89 Tm (Soluciones \(para comprobar\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 265.89 Tm (1a\) 5 km · \(1000 m / 1 km\) = 5000 m) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 248.89 Tm (1b\) 250 cm · \(1 m / 100 cm\) = 2,5 m) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 231.89 Tm (1c\) 3,2 km · \(1000 m / 1 km\) = 3200 m) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 214.89 Tm (1d\) 750 mm · \(1 m / 1000 mm\) = 0,75 m) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 197.89 Tm (2a\) 4 t · \(1000 kg / 1 t\) = 4000 kg) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 180.89 Tm (2b\) 2500 g · \(1 kg / 1000 g\) = 2,5 kg) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 163.89 Tm (2c\) 0,75 t · \(1000 kg / 1 t\) = 750 kg) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 146.89 Tm (2d\) 850 mg · \(1 g/1000 mg\) · \(1 kg/1000 g\) = 0,00085 kg) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 129.89 Tm (3a\) 3 h · \(3600 s / 1 h\) = 10800 s) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 112.89 Tm (3b\) 45 min · \(60 s / 1 min\) = 2700 s) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 95.89 Tm (3c\) 2 h 30 min = 150 min · \(60 s/1 min\) = 9000 s) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 78.89 Tm (3d\) 1 día · \(24 h/1 día\) · \(3600 s/1 h\) = 86400 s) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 61.89 Tm (4a\) 72 · 1000 / 3600 = 20 m/s) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Length 562 >>
+stream
+BT /F1 10 Tf 1 0 0 1 66.00 770.89 Tm (4b\) 90 · 1000 / 3600 = 25 m/s) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 753.89 Tm (4c\) 20 · 3600 / 1000 = 72 km/h) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 736.89 Tm (4d\) 108 · 1000 / 3600 = 30 m/s) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 719.89 Tm (5a\) 5 · 3600 / 1000 = 18 km/h) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 702.89 Tm (5b\) 1,5 L · \(1000 mL / 1 L\) = 1500 mL) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 685.89 Tm (5c\) 7,5 t · \(1000 kg / 1 t\) = 7500 kg) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 668.89 Tm (5d\) 90 min · \(60 s / 1 min\) = 5400 s) Tj ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000230 00000 n 
+0000000332 00000 n 
+0000000437 00000 n 
+0000000589 00000 n 
+0000000742 00000 n 
+0000000895 00000 n 
+0000004566 00000 n 
+0000007849 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+8463
+%%EOF
