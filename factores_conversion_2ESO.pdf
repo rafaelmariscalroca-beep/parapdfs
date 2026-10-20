@@ -28,7 +28,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 13 0 R >>
 endobj
 10 0 obj
-<< /Length 3663 >>
+<< /Length 3554 >>
 stream
 BT /F2 20 Tf 1 0 0 1 72.64 759.89 Tm (Factores de conversión y el Sistema Internacional) Tj ET
 BT /F3 11 Tf 1 0 0 1 221.30 740.89 Tm (Física y Química · 2º de ESO) Tj ET
@@ -48,7 +48,7 @@ BT /F1 11 Tf 1 0 0 1 56.00 503.89 Tm (• De estas se derivan otras, como la veloc
 BT /F2 14 Tf 1 0 0 1 56.00 479.89 Tm (Prefijos útiles) Tj ET
 BT /F1 11 Tf 1 0 0 1 56.00 460.89 Tm (kilo \(k\) = 1000      hecto \(h\) = 100      deca \(da\) = 10) Tj ET
 BT /F1 11 Tf 1 0 0 1 56.00 444.89 Tm (deci \(d\) = 0,1       centi \(c\) = 0,01      mili \(m\) = 0,001) Tj ET
-BT /F2 14 Tf 1 0 0 1 56.00 420.89 Tm (Pasos para resolver con factores de conversión) Tj ET
+BT /F2 14 Tf 1 0 0 1 56.00 420.89 Tm (Pasos para resolver) Tj ET
 BT /F1 11 Tf 1 0 0 1 56.00 401.89 Tm (1. Escribe la cantidad de partida con su unidad.) Tj ET
 BT /F1 11 Tf 1 0 0 1 56.00 385.89 Tm (2. Multiplica por el factor \(o factores\) necesario.) Tj ET
 BT /F1 11 Tf 1 0 0 1 56.00 369.89 Tm (3. Coloca cada unidad de modo que se simplifique la que sobra.) Tj ET
@@ -57,17 +57,17 @@ BT /F1 11 Tf 1 0 0 1 56.00 337.89 Tm (5. Comprueba que la unidad final es la que
 56 329.89 m 539.28 329.89 l 0.6 w S
 BT /F2 14 Tf 1 0 0 1 56.00 301.89 Tm (Ejemplo resuelto paso a paso) Tj ET
 BT /F2 11 Tf 1 0 0 1 56.00 282.89 Tm (Pasa 36 km/h a m/s \(unidades del SI\).) Tj ET
-BT /F1 11 Tf 1 0 0 1 56.00 263.89 Tm (Partimos de 36 km/h y usamos dos factores: uno para km->m y otro para h->s.) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 263.89 Tm (Usamos dos factores: uno para km->m y otro para h->s.) Tj ET
 BT /F2 11 Tf 1 0 0 1 76.00 245.89 Tm (36 km     1000 m      1 h) Tj ET
 BT /F2 11 Tf 1 0 0 1 76.00 229.89 Tm (------- · -------- · ------) Tj ET
 BT /F2 11 Tf 1 0 0 1 76.00 213.89 Tm (1 h      1 km      3600 s) Tj ET
-BT /F1 11 Tf 1 0 0 1 56.00 195.89 Tm (Se simplifican 'km' \(arriba y abajo\) y 'h' \(arriba y abajo\).) Tj ET
-BT /F2 11 Tf 1 0 0 1 76.00 178.89 Tm (= \(36 · 1000\) / 3600 m/s = 36000 / 3600 m/s = 10 m/s) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 195.89 Tm (Se simplifican 'km' y 'h' \(arriba y abajo\).) Tj ET
+BT /F2 11 Tf 1 0 0 1 76.00 178.89 Tm (= \(36·1000\)/3600 m/s = 36000/3600 m/s = 10 m/s) Tj ET
 BT /F2 11 Tf 1 0 0 1 56.00 160.89 Tm (Resultado: 36 km/h = 10 m/s) Tj ET
 56 152.89 m 539.28 152.89 l 0.6 w S
 BT /F2 14 Tf 1 0 0 1 56.00 124.89 Tm (Ejercicios para resolver) Tj ET
 BT /F3 11 Tf 1 0 0 1 56.00 105.89 Tm (Resuelve cada apartado escribiendo los factores de conversión y desarrollándolos paso a paso hasta) Tj ET
-BT /F3 11 Tf 1 0 0 1 56.00 90.89 Tm (llegar a la unidad del SI. Usa las líneas para tu desarrollo.) Tj ET
+BT /F3 11 Tf 1 0 0 1 56.00 90.89 Tm (llegar a la unidad del SI.) Tj ET
 endstream
 endobj
 11 0 obj
@@ -151,7 +151,7 @@ BT /F1 11 Tf 1 0 0 1 72.00 126.89 Tm (d\) 108 km/h a m/s) Tj ET
 endstream
 endobj
 13 0 obj
-<< /Length 2527 >>
+<< /Length 2960 >>
 stream
 BT /F1 11 Tf 1 0 0 1 72.00 770.89 Tm (e\) 15 m/s a km/h) Tj ET
 76.00 747.89 m 539.28 747.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
@@ -179,12 +179,17 @@ BT /F1 11 Tf 1 0 0 1 72.00 328.89 Tm (f\) Una tableta tiene 500 mg de un medicam
 76.00 305.89 m 539.28 305.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
 76.00 287.89 m 539.28 287.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
 56 275.89 m 539.28 275.89 l 0.6 w S
-BT /F2 13 Tf 1 0 0 1 56.00 248.89 Tm (Soluciones \(para comprobar\)) Tj ET
-BT /F1 10 Tf 1 0 0 1 66.00 229.89 Tm (1a\) 5000 m  1b\) 2,5 m  1c\) 3200 m  1d\) 0,75 m  1e\) 800 m  1f\) 1,25 m) Tj ET
-BT /F1 10 Tf 1 0 0 1 66.00 212.89 Tm (2a\) 4000 kg  2b\) 2,5 kg  2c\) 750 kg  2d\) 0,00085 kg  2e\) 6,3 kg  2f\) 500 kg) Tj ET
-BT /F1 10 Tf 1 0 0 1 66.00 195.89 Tm (3a\) 10800 s  3b\) 2700 s  3c\) 9000 s  3d\) 86400 s  3e\) 900 s  3f\) 15300 s) Tj ET
-BT /F1 10 Tf 1 0 0 1 66.00 178.89 Tm (4a\) 20 m/s  4b\) 25 m/s  4c\) 72 km/h  4d\) 30 m/s  4e\) 54 km/h  4f\) 15 m/s) Tj ET
-BT /F1 10 Tf 1 0 0 1 66.00 161.89 Tm (5a\) 18 km/h  5b\) 1500 mL  5c\) 7500 kg  5d\) 5400 s  5e\) 2400 m  5f\) 0,5 g) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 248.89 Tm (Soluciones) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 229.89 Tm (1a\) 5 km·\(1000 m/1 km\) = 5000 m    1b\) 250 cm·\(1 m/100 cm\) = 2,5 m) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 211.89 Tm (1c\) 3,2·1000 = 3200 m    1d\) 750·\(1/1000\) = 0,75 m    1e\) 800 m    1f\) 1,25 m) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 193.89 Tm (2a\) 4·1000 = 4000 kg    2b\) 2500/1000 = 2,5 kg    2c\) 750 kg) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 175.89 Tm (2d\) 850 mg = 0,00085 kg    2e\) 6,3 kg    2f\) 500 kg) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 157.89 Tm (3a\) 3·3600 = 10800 s    3b\) 45·60 = 2700 s    3c\) 150·60 = 9000 s) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 139.89 Tm (3d\) 24·3600 = 86400 s    3e\) 900 s    3f\) 255·60 = 15300 s) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 121.89 Tm (4a\) 72·1000/3600 = 20 m/s    4b\) 25 m/s    4c\) 20·3600/1000 = 72 km/h) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 103.89 Tm (4d\) 30 m/s    4e\) 54 km/h    4f\) 15 m/s) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 85.89 Tm (5a\) 5·3600/1000 = 18 km/h    5b\) 1500 mL    5c\) 7500 kg) Tj ET
+BT /F1 10 Tf 1 0 0 1 66.00 67.89 Tm (5d\) 5400 s    5e\) 2400 m    5f\) 0,5 g) Tj ET
 endstream
 endobj
 xref
@@ -200,11 +205,11 @@ xref
 0000000749 00000 n 
 0000000902 00000 n 
 0000001055 00000 n 
-0000004771 00000 n 
-0000006990 00000 n 
-0000009227 00000 n 
+0000004662 00000 n 
+0000006881 00000 n 
+0000009118 00000 n 
 trailer
 << /Size 14 /Root 1 0 R >>
 startxref
-11807
+12131
 %%EOF
