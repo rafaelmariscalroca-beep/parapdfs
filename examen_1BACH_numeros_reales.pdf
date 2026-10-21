@@ -1,0 +1,105 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [6 0 R 7 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 9 0 R >>
+endobj
+8 0 obj
+<< /Length 2876 >>
+stream
+BT /F2 20 Tf 1 0 0 1 189.44 759.89 Tm (Examen de Matem·ticas) Tj ET
+BT /F3 11 Tf 1 0 0 1 181.70 740.89 Tm (1∫ de Bachillerato ∑ N˙meros reales y radicales) Tj ET
+BT /F1 10 Tf 1 0 0 1 56.00 717.89 Tm (Nombre y apellidos: ________________________________________   Curso: ______) Tj ET
+BT /F1 10 Tf 1 0 0 1 56.00 700.89 Tm (Fecha: ____________        DuraciÛn: 1 h 30 min        CalificaciÛn: ______ / 10) Tj ET
+56 692.89 m 539.28 692.89 l 0.6 w S
+BT /F3 11 Tf 1 0 0 1 56.00 669.89 Tm (Instrucciones: Resuelve de forma ordenada y justifica los pasos. En los intervalos, representa en la) Tj ET
+BT /F3 11 Tf 1 0 0 1 56.00 654.89 Tm (recta real usando punto relleno ? si el extremo se incluye y punto sin rellenar ? si no.) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 627.89 Tm (Ejercicio 1. Representa los siguientes conjuntos en la recta real   \(2,5 puntos\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 608.89 Tm (a\) \(-3, -1\)        b\) [4, +?\)        c\) \(3, 9]        d\) \(-?, 0\)) Tj ET
+76.00 585.89 m 539.28 585.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 567.89 m 539.28 567.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 548.89 Tm (e\) {x / -2 ? x ? 5}        f\) [-2, 5\) ? \(5, 7]) Tj ET
+76.00 525.89 m 539.28 525.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 507.89 m 539.28 507.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 488.89 Tm (g\) \(-?, 0\) ? \(3, +?\)        h\) \(-?, 1\) ? \(1, +?\)) Tj ET
+76.00 465.89 m 539.28 465.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 447.89 m 539.28 447.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F2 13 Tf 1 0 0 1 56.00 424.89 Tm (Ejercicio 2. Averigua y representa para quÈ valores de x se cumplen   \(2,5 puntos\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 405.89 Tm (a\) |x| = 5        b\) |x| ? 5        c\) |x - 4| = 2) Tj ET
+76.00 382.89 m 539.28 382.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 364.89 m 539.28 364.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 345.89 Tm (d\) |x - 4| ? 2        e\) |x - 4| > 2        f\) |x + 4| > 5) Tj ET
+76.00 322.89 m 539.28 322.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 304.89 m 539.28 304.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 286.89 m 539.28 286.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F2 13 Tf 1 0 0 1 56.00 263.89 Tm (Ejercicio 8. Suma y simplifica   \(2,5 puntos\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 244.89 Tm (a\) 5?x + 3?x + 2?x        b\) ?\(9∑2\) + ?\(25∑2\) - ?2) Tj ET
+76.00 221.89 m 539.28 221.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 203.89 m 539.28 203.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 185.89 m 539.28 185.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 166.89 Tm (c\) ?18 + ?50 - ?2 - ?8        d\) ?27 - ?50 + ?12 + ?8) Tj ET
+76.00 143.89 m 539.28 143.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 125.89 m 539.28 125.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 107.89 m 539.28 107.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+endstream
+endobj
+9 0 obj
+<< /Length 1558 >>
+stream
+BT /F1 11 Tf 1 0 0 1 70.00 770.89 Tm (e\) ?\(50a\) - ?\(18a\)        f\) ≥?16 + ≥?54 - ≥?250) Tj ET
+76.00 747.89 m 539.28 747.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 729.89 m 539.28 729.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 711.89 m 539.28 711.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F2 13 Tf 1 0 0 1 56.00 688.89 Tm (Ejercicio 10. Racionaliza denominadores y simplifica   \(2,5 puntos\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 669.89 Tm (a\) 1 / \(?2 + 1\)        b\) \(x + y\) / \(?x + ?y\)) Tj ET
+76.00 646.89 m 539.28 646.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 628.89 m 539.28 628.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 610.89 m 539.28 610.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 591.89 Tm (c\) \(a - 1\) / \(?a - 1\)        d\) \(?x + ?y\) / \(?x - ?y\)) Tj ET
+76.00 568.89 m 539.28 568.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 550.89 m 539.28 550.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 532.89 m 539.28 532.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 513.89 Tm (e\) 1 / \(2?3 - ?5\)        f\) \(3?2 + 2?3\) / \(3?2 - 2?3\)) Tj ET
+76.00 490.89 m 539.28 490.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 472.89 m 539.28 472.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 454.89 m 539.28 454.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 435.89 Tm (g\) 1/?2 + 1/\(?2 - 1\) + 1/\(?2 + 1\)) Tj ET
+76.00 412.89 m 539.28 412.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 394.89 m 539.28 394.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 376.89 m 539.28 376.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000431 00000 n 
+0000000583 00000 n 
+0000000735 00000 n 
+0000003663 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+5273
+%%EOF
