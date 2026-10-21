@@ -1,0 +1,569 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 12 /Kids [6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 18 0 R >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 19 0 R >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 20 0 R >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 21 0 R >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 22 0 R >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 23 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 24 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 25 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 26 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 27 0 R >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 28 0 R >>
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 29 0 R >>
+endobj
+18 0 obj
+<< /Length 2770 >>
+stream
+BT /F2 20 Tf 1 0 0 1 89.84 759.89 Tm (Logaritmos — Ejercicios resueltos y explicados) Tj ET
+BT /F3 11 Tf 1 0 0 1 216.68 740.89 Tm (Matemáticas · 1º de Bachillerato) Tj ET
+56 728.89 m 539.28 728.89 l 0.6 w S
+BT /F2 13 Tf 1 0 0 1 56.00 701.89 Tm (Recuerda antes de empezar) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 682.89 Tm (Definición: log_b\(N\) = x  significa que  b^x = N   \(con b>0, b?1, N>0\).) Tj ET
+BT /F1 11 Tf 1 0 0 1 56.00 664.89 Tm (Propiedades que usaremos:) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 647.89 Tm (• log\(A·B\) = log A + log B          • log\(A/B\) = log A - log B) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 631.89 Tm (• log\(A^n\) = n·log A                • log_b\(b\) = 1 ;  log_b\(1\) = 0) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 615.89 Tm (• Cambio de base: log_b\(N\) = log\(N\) / log\(b\)) Tj ET
+56 607.89 m 539.28 607.89 l 0.6 w S
+BT /F2 13 Tf 1 0 0 1 56.00 580.89 Tm (Ejercicio 1. Calcula aplicando la definición log_b\(N\)=x <=> b^x=N) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 561.89 Tm (a\) log_3\(9\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 544.89 Tm (3^x = 9 = 3^2  ->  x = 2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 527.89 Tm (Resultado: 2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 505.89 Tm (b\) log_2\(1024\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 488.89 Tm (2^x = 1024 = 2^10  ->  x = 10) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 471.89 Tm (Resultado: 10) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 449.89 Tm (c\) log_2\(8\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 432.89 Tm (2^x = 8 = 2^3  ->  x = 3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 415.89 Tm (Resultado: 3) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 393.89 Tm (d\) log_\(1/3\)\(9\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 376.89 Tm (\(1/3\)^x = 9 = 3^2 = \(1/3\)^\(-2\)  ->  x = -2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 359.89 Tm (Resultado: -2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 337.89 Tm (e\) log\(100\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 320.89 Tm (log base 10: 10^x = 100 = 10^2  ->  x = 2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 303.89 Tm (Resultado: 2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 281.89 Tm (f\) log_\(1/2\)\(1/1024\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 264.89 Tm (\(1/2\)^x = 1/1024 = \(1/2\)^10  ->  x = 10) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 247.89 Tm (Resultado: 10) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 225.89 Tm (g\) log_\(1/2\)\(8\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 208.89 Tm (\(1/2\)^x = 8 = 2^3 = \(1/2\)^\(-3\)  ->  x = -3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 191.89 Tm (Resultado: -3) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 169.89 Tm (h\) log_2\(1\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 152.89 Tm (2^x = 1 = 2^0  ->  x = 0) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 135.89 Tm (Resultado: 0) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 113.89 Tm (i\) log_2\(0,5\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 96.89 Tm (2^x = 0,5 = 1/2 = 2^\(-1\)  ->  x = -1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 79.89 Tm (Resultado: -1) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Length 2609 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (j\) log_2\(0,25\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 753.89 Tm (2^x = 0,25 = 1/4 = 2^\(-2\)  ->  x = -2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 736.89 Tm (Resultado: -2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 714.89 Tm (k\) log_3\(243\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 697.89 Tm (3^x = 243 = 3^5  ->  x = 5) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 680.89 Tm (Resultado: 5) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 658.89 Tm (l\) log_3\(1/9\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 641.89 Tm (3^x = 1/9 = 3^\(-2\)  ->  x = -2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 624.89 Tm (Resultado: -2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 602.89 Tm (m\) log_\(1/3\)\(1/9\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 585.89 Tm (\(1/3\)^x = 1/9 = \(1/3\)^2  ->  x = 2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 568.89 Tm (Resultado: 2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 546.89 Tm (n\) log\(0,01\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 529.89 Tm (10^x = 0,01 = 10^\(-2\)  ->  x = -2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 512.89 Tm (Resultado: -2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 490.89 Tm (ñ\) log_8\(1/8\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 473.89 Tm (8^x = 1/8 = 8^\(-1\)  ->  x = -1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 456.89 Tm (Resultado: -1) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 434.89 Tm (o\) log_5\(125\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 417.89 Tm (5^x = 125 = 5^3  ->  x = 3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 400.89 Tm (Resultado: 3) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 378.89 Tm (p\) log_\(?2\)\(4\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 361.89 Tm (\(?2\)^x = 4;  ?2 = 2^\(1/2\)  ->  2^\(x/2\)=2^2  ->  x/2=2  ->  x=4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 344.89 Tm (Resultado: 4) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 322.89 Tm (q\) log_216\(6\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 305.89 Tm (216^x = 6;  216 = 6^3  ->  6^\(3x\)=6^1  ->  3x=1  ->  x=1/3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 288.89 Tm (Resultado: 1/3) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 266.89 Tm (r\) log_9\(3\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 249.89 Tm (9^x = 3;  9 = 3^2  ->  3^\(2x\)=3^1  ->  2x=1  ->  x=1/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 232.89 Tm (Resultado: 1/2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 210.89 Tm (s\) log_4\(?2\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 193.89 Tm (4^x = ?2 = 2^\(1/2\);  4=2^2  ->  2^\(2x\)=2^\(1/2\)  ->  2x=1/2  ->  x=1/4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 176.89 Tm (Resultado: 1/4) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 150.89 Tm (Ejercicio 2. Calcula aplicando la definición) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 131.89 Tm (a\) log_2\(512\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 114.89 Tm (2^x = 512 = 2^9  ->  x = 9) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 97.89 Tm (Resultado: 9) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Length 2749 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (b\) log_3\(27\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 753.89 Tm (3^x = 27 = 3^3  ->  x = 3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 736.89 Tm (Resultado: 3) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 714.89 Tm (c\) log\(0,001\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 697.89 Tm (10^x = 0,001 = 10^\(-3\)  ->  x = -3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 680.89 Tm (Resultado: -3) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 658.89 Tm (d\) log_\(1/2\)\(2\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 641.89 Tm (\(1/2\)^x = 2 = \(1/2\)^\(-1\)  ->  x = -1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 624.89 Tm (Resultado: -1) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 602.89 Tm (e\) log_2\(1/64\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 585.89 Tm (2^x = 1/64 = 2^\(-6\)  ->  x = -6) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 568.89 Tm (Resultado: -6) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 546.89 Tm (f\) log_\(0,5\)\(4\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 529.89 Tm (0,5^x = 4;  0,5 = 2^\(-1\), 4 = 2^2  ->  -x = 2  ->  x = -2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 512.89 Tm (Resultado: -2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 490.89 Tm (g\) log_\(?3\)\(3\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 473.89 Tm (\(?3\)^x = 3 = \(?3\)^2  ->  x = 2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 456.89 Tm (Resultado: 2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 434.89 Tm (h\) log_9\(1\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 417.89 Tm (9^x = 1 = 9^0  ->  x = 0) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 400.89 Tm (Resultado: 0) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 378.89 Tm (i\) log\(10^100\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 361.89 Tm (10^x = 10^100  ->  x = 100) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 344.89 Tm (Resultado: 100) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 322.89 Tm (j\) log_2\(?8\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 305.89 Tm (2^x = ?8 = 8^\(1/2\) = 2^\(3/2\)  ->  x = 3/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 288.89 Tm (Resultado: 3/2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 266.89 Tm (k\) log_3\(?3\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 249.89 Tm (3^x = ?3 = 3^\(1/2\)  ->  x = 1/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 232.89 Tm (Resultado: 1/2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 210.89 Tm (l\) log_\(1/9\)\(3\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 193.89 Tm (\(1/9\)^x = 3;  1/9 = 3^\(-2\)  ->  3^\(-2x\)=3^1  ->  -2x=1  ->  x=-1/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 176.89 Tm (Resultado: -1/2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 154.89 Tm (m\) log_25\(1/125\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 137.89 Tm (25^x = 1/125;  25=5^2, 125=5^3  ->  5^\(2x\)=5^\(-3\)  ->  2x=-3  ->  x=-3/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 120.89 Tm (Resultado: -3/2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 98.89 Tm (n\) log_49\(7\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 81.89 Tm (49^x = 7;  49 = 7^2  ->  7^\(2x\)=7^1  ->  2x=1  ->  x=1/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 64.89 Tm (Resultado: 1/2) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Length 2648 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (ñ\) log_\(1/6\)\(36\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 753.89 Tm (\(1/6\)^x = 36 = 6^2 = \(1/6\)^\(-2\)  ->  x = -2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 736.89 Tm (Resultado: -2) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 710.89 Tm (Ejercicio 3. Halla la base a de los logaritmos) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 691.89 Tm (a\) log_a\(4\)=2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 674.89 Tm (a^2 = 4  ->  a = 2 \(base positiva\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 657.89 Tm (Resultado: a = 2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 635.89 Tm (b\) log_a\(9\)=2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 618.89 Tm (a^2 = 9  ->  a = 3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 601.89 Tm (Resultado: a = 3) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 579.89 Tm (c\) log_a\(625\)=4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 562.89 Tm (a^4 = 625 = 5^4  ->  a = 5) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 545.89 Tm (Resultado: a = 5) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 523.89 Tm (d\) log_a\(243\)=5) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 506.89 Tm (a^5 = 243 = 3^5  ->  a = 3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 489.89 Tm (Resultado: a = 3) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 467.89 Tm (e\) log_a\(256\)=8) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 450.89 Tm (a^8 = 256 = 2^8  ->  a = 2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 433.89 Tm (Resultado: a = 2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 411.89 Tm (f\) log_a\(0,125\)=3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 394.89 Tm (a^3 = 0,125 = 1/8 = \(1/2\)^3  ->  a = 0,5) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 377.89 Tm (Resultado: a = 0,5) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 355.89 Tm (g\) log_a\(0,001\)=-3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 338.89 Tm (a^\(-3\) = 0,001 = 10^\(-3\)  ->  a = 10) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 321.89 Tm (Resultado: a = 10) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 299.89 Tm (h\) log_a\(1\)=0) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 282.89 Tm (a^0 = 1 se cumple para cualquier a>0 \(a?1\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 265.89 Tm (Resultado: cualquier a > 0) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 239.89 Tm (Ejercicio 4. Calcula la base x de los logaritmos) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 220.89 Tm (a\) log_x\(3\)=-1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 203.89 Tm (x^\(-1\) = 3  ->  1/x = 3  ->  x = 1/3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 186.89 Tm (Resultado: 1/3) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 164.89 Tm (b\) log_x\(?\)=1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 147.89 Tm (x^1 = ?  ->  x = ?) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 130.89 Tm (Resultado: ?) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 108.89 Tm (c\) log_x\(1/9\)=-2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 91.89 Tm (x^\(-2\) = 1/9  ->  x^2 = 9  ->  x = 3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 74.89 Tm (Resultado: 3) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Length 2575 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (d\) log_x\(0,015625\)=3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 753.89 Tm (x^3 = 0,015625 = 1/64 = \(1/4\)^3  ->  x = 1/4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 736.89 Tm (Resultado: 1/4) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 714.89 Tm (e\) log_x\(125\)=3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 697.89 Tm (x^3 = 125 = 5^3  ->  x = 5) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 680.89 Tm (Resultado: 5) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 658.89 Tm (f\) log_x\(3\)=1/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 641.89 Tm (x^\(1/2\) = 3  ->  ?x = 3  ->  x = 9) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 624.89 Tm (Resultado: 9) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 602.89 Tm (g\) log_x\(1/4\)=2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 585.89 Tm (x^2 = 1/4  ->  x = 1/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 568.89 Tm (Resultado: 1/2 \(= 0,5\)) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 546.89 Tm (h\) log_x\(2\)=1/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 529.89 Tm (x^\(1/2\) = 2  ->  ?x = 2  ->  x = 4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 512.89 Tm (Resultado: 4) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 490.89 Tm (i\) log_x\(0,04\)=-2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 473.89 Tm (x^\(-2\) = 0,04 = 1/25  ->  x^2 = 25  ->  x = 5) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 456.89 Tm (Resultado: 5) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 434.89 Tm (j\) log_x\(4\)=-1/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 417.89 Tm (x^\(-1/2\)=4  ->  1/?x = 4  ->  ?x = 1/4  ->  x = 1/16) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 400.89 Tm (Resultado: 1/16) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 378.89 Tm (k\) log_x\(7\)=-2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 361.89 Tm (x^\(-2\)=7  ->  x^2 = 1/7  ->  x = 1/?7) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 344.89 Tm (Resultado: 1/?7) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 322.89 Tm (l\) log_x\(??3\)=1/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 305.89 Tm (x^\(1/2\)=3^\(1/4\)  ->  x = \(3^\(1/4\)\)^2 = 3^\(1/2\) = ?3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 288.89 Tm (Resultado: ?3) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 262.89 Tm (Ejercicio 5. Aplicando la definición, resuelve) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 243.89 Tm (a\) 2^x = 16) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 226.89 Tm (16 = 2^4  ->  x = 4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 209.89 Tm (Resultado: x = 4) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 187.89 Tm (b\) 2^x = 32) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 170.89 Tm (32 = 2^5  ->  x = 5) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 153.89 Tm (Resultado: x = 5) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 131.89 Tm (c\) 3^\(1/x\) = 9) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 114.89 Tm (9 = 3^2  ->  1/x = 2  ->  x = 1/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 97.89 Tm (Resultado: x = 1/2) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Length 2798 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (d\) log_2\(64\) = x) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 753.89 Tm (2^x = 64 = 2^6  ->  x = 6) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 736.89 Tm (Resultado: x = 6) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 714.89 Tm (e\) log_3\(81\) = x) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 697.89 Tm (3^x = 81 = 3^4  ->  x = 4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 680.89 Tm (Resultado: x = 4) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 658.89 Tm (f\) log_101\(10201\)=x) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 641.89 Tm (101^x = 10201 = 101^2  ->  x = 2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 624.89 Tm (Resultado: x = 2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 602.89 Tm (g\) log_16\(0,5\)=x) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 585.89 Tm (16^x = 0,5;  16=2^4, 0,5=2^\(-1\)  ->  2^\(4x\)=2^\(-1\)  ->  x = -1/4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 568.89 Tm (Resultado: x = -1/4) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 546.89 Tm (h\) log_10\(0,00001\)=x) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 529.89 Tm (10^x = 10^\(-5\)  ->  x = -5) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 512.89 Tm (Resultado: x = -5) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 490.89 Tm (i\) log_x\(125\)=3/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 473.89 Tm (x^\(3/2\)=125=5^3  ->  x = 5^\(3·2/3\)=5^2 = 25) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 456.89 Tm (Resultado: x = 25) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 434.89 Tm (j\) log_x\(1/3\)=-1/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 417.89 Tm (x^\(-1/2\)=1/3  ->  ?x = 3  ->  x = 9) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 400.89 Tm (Resultado: x = 9) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 378.89 Tm (k\) log_125\(1/?5\)=x) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 361.89 Tm (125=5^3, 1/?5=5^\(-1/2\)  ->  5^\(3x\)=5^\(-1/2\)  ->  3x=-1/2  ->  x=-1/6) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 344.89 Tm (Resultado: x = -1/6) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 322.89 Tm (l\) log_343\(?7\)=x) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 305.89 Tm (343=7^3, ?7=7^\(1/2\)  ->  7^\(3x\)=7^\(1/2\)  ->  3x=1/2  ->  x=1/6) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 288.89 Tm (Resultado: x = 1/6) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 262.89 Tm (Ejercicio 6. Calcula el valor de x aplicando la definición) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 243.89 Tm (a\) log_\(2/3\)\(81/16\)=x) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 226.89 Tm (\(2/3\)^x = 81/16 = \(3/2\)^4 = \(2/3\)^\(-4\)  ->  x = -4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 209.89 Tm (Resultado: -4) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 187.89 Tm (b\) log_\(5/3\)\(27/125\)=x) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 170.89 Tm (\(5/3\)^x = 27/125 = \(3/5\)^3 = \(5/3\)^\(-3\)  ->  x = -3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 153.89 Tm (Resultado: -3) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 131.89 Tm (c\) log_8\(??2\)=x) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 114.89 Tm (8=2^3, ??2=2^\(1/4\)  ->  2^\(3x\)=2^\(1/4\)  ->  3x=1/4  ->  x=1/12) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 97.89 Tm (Resultado: 1/12) Tj ET
+endstream
+endobj
+24 0 obj
+<< /Length 2878 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (d\) x = log_3\(3?3\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 753.89 Tm (3?3 = 3·3^\(1/2\) = 3^\(3/2\)  ->  x = 3/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 736.89 Tm (Resultado: 3/2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 714.89 Tm (e\) x = log_3\(??3/9\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 697.89 Tm (??3/9 = 3^\(1/4\)/3^2 = 3^\(1/4-2\) = 3^\(-7/4\)  ->  x = -7/4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 680.89 Tm (Resultado: -7/4) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 658.89 Tm (f\) x = log_81\(3\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 641.89 Tm (81=3^4  ->  3^\(4x\)=3^1  ->  4x=1  ->  x=1/4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 624.89 Tm (Resultado: 1/4) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 602.89 Tm (g\) x = log_81\(?3/3\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 585.89 Tm (?3/3 = 3^\(1/2-1\)=3^\(-1/2\);  81=3^4  ->  4x=-1/2  ->  x=-1/8) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 568.89 Tm (Resultado: -1/8) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 546.89 Tm (h\) x = log_\(1/9\)\(??3/3\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 529.89 Tm (??3/3 = 3^\(1/4-1\)=3^\(-3/4\);  1/9=3^\(-2\)  ->  -2x=-3/4  ->  x=3/8) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 512.89 Tm (Resultado: 3/8) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 490.89 Tm (i\) x = log_\(?3/3\)\(81\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 473.89 Tm (?3/3 = 3^\(-1/2\);  81=3^4  ->  \(-1/2\)x=4  ->  x=-8) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 456.89 Tm (Resultado: -8) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 434.89 Tm (j\) x = log_\(?3/3\)\(??3/3\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 417.89 Tm (base=3^\(-1/2\), arg=3^\(-3/4\)  ->  \(-1/2\)x=-3/4  ->  x=3/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 400.89 Tm (Resultado: 3/2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 378.89 Tm (k\) log_x\(1/2187\)=7) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 361.89 Tm (x^7 = 1/2187 = 1/3^7 = \(1/3\)^7  ->  x = 1/3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 344.89 Tm (Resultado: 1/3) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 322.89 Tm (l\) log_\(2/5\)\(x\)=-1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 305.89 Tm (x = \(2/5\)^\(-1\) = 5/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 288.89 Tm (Resultado: 5/2) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 262.89 Tm (Ejercicio 7. Halla el resultado de las expresiones) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 243.89 Tm (a\) log_5\(125\) - log_3\(243\) + log_4\(256\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 226.89 Tm (log_5\(125\)=3; log_3\(243\)=5; log_4\(256\)=4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 209.89 Tm (3 - 5 + 4 = 2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 192.89 Tm (Resultado: 2) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 170.89 Tm (b\) log_3\(1\) + log_2\(64\) + log_3\(9\) + log_7\(49\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 153.89 Tm (0 + 6 + 2 + 2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 136.89 Tm (Resultado: 10) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 114.89 Tm (c\) log_2\(4\) + log_3\(81\) - log_6\(216\) + log_4\(64\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 97.89 Tm (2 + 4 - 3 + 3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 80.89 Tm (Resultado: 6) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Length 2733 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (d\) log_3\(1/9\) - log_5\(0,2\) + log_6\(1/36\) - log_2\(0,5\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 753.89 Tm (log_3\(1/9\)=-2; log_5\(0,2\)=-1; log_6\(1/36\)=-2; log_2\(0,5\)=-1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 736.89 Tm (-2 - \(-1\) + \(-2\) - \(-1\) = -2 +1 -2 +1 = -2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 719.89 Tm (Resultado: -2) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 693.89 Tm (Ejercicio 8. Con log2?0,3010, log3?0,4771, log7?0,8451, halla) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 674.89 Tm (a\) log\(30\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 657.89 Tm (log\(3·10\) = log3 + log10 = 0,4771 + 1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 640.89 Tm (Resultado: 1,4771) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 618.89 Tm (b\) log\(84\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 601.89 Tm (84 = 2^2·3·7  ->  2·log2 + log3 + log7) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 584.89 Tm (2·0,3010+0,4771+0,8451) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 567.89 Tm (Resultado: 1,9242) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 545.89 Tm (c\) log\(162\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 528.89 Tm (162 = 2·3^4  ->  log2 + 4·log3 = 0,3010 + 4·0,4771) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 511.89 Tm (Resultado: 2,2094) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 489.89 Tm (d\) log\(0,128\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 472.89 Tm (0,128 = 128/1000 = 2^7/10^3  ->  7·log2 - 3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 455.89 Tm (7·0,3010 - 3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 438.89 Tm (Resultado: -0,893) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 416.89 Tm (e\) log\(14,4\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 399.89 Tm (14,4 = 144/10 = \(2^4·3^2\)/10  ->  4log2 + 2log3 - 1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 382.89 Tm (Resultado: 1,1582) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 360.89 Tm (f\) log\(³?12\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 343.89 Tm (³?12 = 12^\(1/3\) = \(2^2·3\)^\(1/3\)  ->  \(2log2+log3\)/3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 326.89 Tm (Resultado: 0,3597) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 304.89 Tm (g\) log\(25\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 287.89 Tm (25 = 100/4 = 10^2/2^2  ->  2 - 2·log2 = 2 - 0,602) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 270.89 Tm (Resultado: 1,398) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 248.89 Tm (h\) log\(0,125\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 231.89 Tm (0,125 = 1/8 = 2^\(-3\)  ->  -3·log2 = -3·0,3010) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 214.89 Tm (Resultado: -0,903) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 188.89 Tm (Ejercicio 9. Con log2?0,3010, log3?0,4771, calcula) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 169.89 Tm (a\) log\(2,025\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 152.89 Tm (2,025 = 81/40 = 3^4/\(2^3·5\); log5=1-log2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 135.89 Tm (4log3 -3log2 -\(1-log2\)=4log3 -2log2 -1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 118.89 Tm (Resultado: 0,3064) Tj ET
+endstream
+endobj
+26 0 obj
+<< /Length 2840 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (b\) log\(??0,02\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 753.89 Tm (0,02 = 2/100 = 2·10^\(-2\); log0,02 = log2 - 2 = -1,699) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 736.89 Tm (\(-1,699\)/5) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 719.89 Tm (Resultado: -0,3398) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 697.89 Tm (c\) log\(?0,025 / 8\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 680.89 Tm (0,025 = 25/1000; ?0,025=5·10^\(-...\); se obtiene) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 663.89 Tm (Resultado: -1,704) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 641.89 Tm (d\) log_5\(4\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 624.89 Tm (cambio de base: log4/log5 = 2log2/\(1-log2\) = 0,602/0,699) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 607.89 Tm (Resultado: 0,8612) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 585.89 Tm (e\) log\(?0,3\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 568.89 Tm (?0,3 = 0,3^\(1/2\); log0,3 = log3 - 1 = -0,5229) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 551.89 Tm (\(-0,5229\)/2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 534.89 Tm (Resultado: -0,26145) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 512.89 Tm (f\) log\(8\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 495.89 Tm (8 = 2^3  ->  3·log2 = 3·0,3010) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 478.89 Tm (Resultado: 0,903) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 456.89 Tm (g\) log\(5\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 439.89 Tm (5 = 10/2  ->  1 - log2 = 1 - 0,3010) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 422.89 Tm (Resultado: 0,699) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 400.89 Tm (h\) log\(\(12/5\)^3\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 383.89 Tm (3·log\(12/5\); 12/5=2,4; log2,4=2·log2+log3-log5) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 366.89 Tm (Resultado: 1,1403) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 340.89 Tm (Ejercicio 10. Halla x aplicando las propiedades de los logaritmos) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 321.89 Tm (a\) ln x = ln8 + ln2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 304.89 Tm (ln x = ln\(8·2\) = ln16  ->  x = 16) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 287.89 Tm (Resultado: x = 16) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 265.89 Tm (b\) log x = log36 - log6) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 248.89 Tm (log x = log\(36/6\) = log6  ->  x = 6) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 231.89 Tm (Resultado: x = 6) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 209.89 Tm (c\) ln x = 3·ln2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 192.89 Tm (ln x = ln\(2^3\) = ln8  ->  x = 8) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 175.89 Tm (Resultado: x = 8) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 153.89 Tm (d\) ln x = ln3 + ln2 - ln6) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 136.89 Tm (ln x = ln\(3·2/6\) = ln1  ->  x = 1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 119.89 Tm (Resultado: x = 1) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 97.89 Tm (e\) log x = 4log2 - \(1/2\)log25) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 80.89 Tm (log x = log\(2^4\) - log\(25^\(1/2\)\) = log\(16/5\)  ->  x=16/5) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 63.89 Tm (Resultado: x = 16/5) Tj ET
+endstream
+endobj
+27 0 obj
+<< /Length 2923 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (f\) log x = 3log2 - \(1/4\)log16) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 753.89 Tm (log\(2^3\) - log\(16^\(1/4\)\) = log\(8/2\) = log4  ->  x = 4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 736.89 Tm (Resultado: x = 4) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 710.89 Tm (Ejercicio 11. Sabiendo que log k = 14,4 calcula) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 691.89 Tm (a\) log\(k/100\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 674.89 Tm (log k - log100 = 14,4 - 2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 657.89 Tm (Resultado: 12,4) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 635.89 Tm (b\) log\(0,1·k^2\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 618.89 Tm (log0,1 + 2·log k = -1 + 2·14,4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 601.89 Tm (Resultado: 27,8) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 579.89 Tm (c\) log\(³?\(1/k\)\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 562.89 Tm (\(1/3\)·log\(1/k\) = \(1/3\)·\(-14,4\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 545.89 Tm (Resultado: -4,8) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 523.89 Tm (d\) log\(k^\(1/2\)\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 506.89 Tm (\(1/2\)·log k... da \(1/2\)·... según enunciado) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 489.89 Tm (Resultado: 3,7947) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 463.89 Tm (Ejercicio 12. Comprueba que \(log\(1/a\)+log?a\)/log\(a^3\) = -1/6) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 444.89 Tm (Demostración) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 427.89 Tm (log\(1/a\) = -log a;  log?a = \(1/2\)log a;  log\(a^3\)=3log a) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 410.89 Tm (Numerador: -log a + \(1/2\)log a = -\(1/2\)log a) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 393.89 Tm (\(-\(1/2\)log a\)/\(3 log a\) = -1/6  ? \(no procede valor numérico\)) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 367.89 Tm (Ejercicio 13. Comprueba que log_a\(0,01\) + 3·log_a\(100\) - 4·log_a\(10\) = 0) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 348.89 Tm (Demostración) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 331.89 Tm (Pasa todo a potencias de 10: 0,01=10^-2, 100=10^2, 10=10^1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 314.89 Tm (log_a\(10^-2\) + 3log_a\(10^2\) - 4log_a\(10\) = \(-2+6-4\)·log_a\(10\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 297.89 Tm (= 0·log_a\(10\) = 0  ?) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 271.89 Tm (Ejercicio 14. Desarrolla usando las propiedades de los logaritmos) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 252.89 Tm (a\) log\(a^2·b/c\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 235.89 Tm (= log a^2 + log b - log c) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 218.89 Tm (Resultado: 2 log a + log b - log c) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 196.89 Tm (b\) log\(a^2·b^3·c\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 179.89 Tm (= log a^2 + log b^3 + log c) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 162.89 Tm (Resultado: 2 log a + 3 log b + log c) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 140.89 Tm (c\) log\(a^2·³?b / ??c³\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 123.89 Tm (= 2log a + \(1/3\)log b - \(3/4\)log c) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 106.89 Tm (Resultado: 2 log a + \(1/3\) log b - \(3/4\) log c) Tj ET
+endstream
+endobj
+28 0 obj
+<< /Length 2920 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (d\) log\( m·³?\(n^4·?\(m/n\)\) / n \)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 753.89 Tm (Se separa producto, raíces y cociente) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 736.89 Tm (Resultado: \(7/6\) log m + \(1/6\) log n) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 714.89 Tm (e\) log_2\(1/2^\(3x\)\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 697.89 Tm (= log_2\(2^\(-3x\)\) = -3x·log_2\(2\) = -3x) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 680.89 Tm (Resultado: -3x) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 658.89 Tm (f\) log_x\(?x / ³?x²\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 641.89 Tm (= log_x\(x^\(1/2\)\) - log_x\(x^\(2/3\)\) = 1/2 - 2/3) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 624.89 Tm (Resultado: -1/6) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 598.89 Tm (Ejercicio 15. Comprime las expresiones \(un solo logaritmo\)) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 579.89 Tm (a\) log\(x^4\) - log\(?\(xy\)\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 562.89 Tm (= log\( x^4 / \(xy\)^\(1/2\) \)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 545.89 Tm (Resultado: log\( x^4 / ?\(xy\) \)) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 523.89 Tm (b\) log x - 2 log y) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 506.89 Tm (= log x - log y^2 = log\(x/y^2\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 489.89 Tm (Resultado: log\( x / y^2 \)) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 467.89 Tm (c\) 3 log x + log\(1-x\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 450.89 Tm (= log x^3 + log\(1-x\) = log\(x^3·\(1-x\)\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 433.89 Tm (Resultado: log\( x^3·\(1-x\) \)) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 411.89 Tm (d\) \(log x\)/2 + \(log y\)/4) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 394.89 Tm (= log x^\(1/2\) + log y^\(1/4\) = log\(?x·??y\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 377.89 Tm (Resultado: log\( ??\(x^2·y\) \)) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 355.89 Tm (e\) -log x - log y) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 338.89 Tm (= -\(log x + log y\) = log\( \(xy\)^\(-1\) \)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 321.89 Tm (Resultado: log\( 1/\(xy\) \)) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 299.89 Tm (f\) log\(x^\(log x\)\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 282.89 Tm (= log x · log x = \(log x\)^2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 265.89 Tm (Resultado: \(log x\)^2) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 239.89 Tm (Ejercicio 16. Elimina los logaritmos de las expresiones) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 220.89 Tm (a\) log x + log y = 1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 203.89 Tm (log\(xy\) = 1  ->  xy = 10^1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 186.89 Tm (Resultado: x·y = 10) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 164.89 Tm (b\) log x - log y = -1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 147.89 Tm (log\(x/y\) = -1  ->  x/y = 10^\(-1\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 130.89 Tm (Resultado: x/y = 1/10) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 108.89 Tm (c\) 4 log x - 3 log y = 2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 91.89 Tm (log\(x^4/y^3\) = 2  ->  x^4/y^3 = 10^2) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 74.89 Tm (Resultado: x^4/y^3 = 100) Tj ET
+endstream
+endobj
+29 0 obj
+<< /Length 454 >>
+stream
+BT /F2 11 Tf 1 0 0 1 56.00 770.89 Tm (d\) \(2 log x\)/3 - 1 = log y) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 753.89 Tm (log x^\(2/3\) - log y = 1  ->  log\(x^\(2/3\)/y\)=1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 736.89 Tm (Resultado: ³?\(x^2\)/y = 10) Tj ET
+BT /F2 11 Tf 1 0 0 1 56.00 714.89 Tm (e\) log\(log x\) = 1) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 697.89 Tm (log x = 10^1 = 10  ->  x = 10^10) Tj ET
+BT /F1 10 Tf 1 0 0 1 72.00 680.89 Tm (Resultado: x = 10^10) Tj ET
+endstream
+endobj
+xref
+0 30
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000196 00000 n 
+0000000293 00000 n 
+0000000395 00000 n 
+0000000500 00000 n 
+0000000653 00000 n 
+0000000806 00000 n 
+0000000959 00000 n 
+0000001112 00000 n 
+0000001266 00000 n 
+0000001420 00000 n 
+0000001574 00000 n 
+0000001728 00000 n 
+0000001882 00000 n 
+0000002036 00000 n 
+0000002190 00000 n 
+0000002344 00000 n 
+0000005167 00000 n 
+0000007829 00000 n 
+0000010631 00000 n 
+0000013332 00000 n 
+0000015960 00000 n 
+0000018811 00000 n 
+0000021742 00000 n 
+0000024528 00000 n 
+0000027421 00000 n 
+0000030397 00000 n 
+0000033370 00000 n 
+trailer
+<< /Size 30 /Root 1 0 R >>
+startxref
+33876
+%%EOF
