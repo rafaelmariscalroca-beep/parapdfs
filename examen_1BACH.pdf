@@ -1,0 +1,159 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 3 /Kids [6 0 R 7 0 R 8 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 9 0 R >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 11 0 R >>
+endobj
+9 0 obj
+<< /Length 3071 >>
+stream
+BT /F2 20 Tf 1 0 0 1 189.44 759.89 Tm (Examen de Matemáticas) Tj ET
+BT /F3 11 Tf 1 0 0 1 126.48 740.89 Tm (1º de Bachillerato · Números reales, potencias, radicales y logaritmos) Tj ET
+BT /F1 10 Tf 1 0 0 1 56.00 717.89 Tm (Nombre y apellidos: ________________________________________   Curso: ______) Tj ET
+BT /F1 10 Tf 1 0 0 1 56.00 700.89 Tm (Fecha: ____________        Duración: 1 h 30 min        Calificación: ______ / 10) Tj ET
+56 692.89 m 539.28 692.89 l 0.6 w S
+BT /F3 11 Tf 1 0 0 1 56.00 669.89 Tm (Instrucciones: Resuelve de forma ordenada y justifica los pasos. Cada ejercicio indica su puntuación.) Tj ET
+BT /F3 11 Tf 1 0 0 1 56.00 654.89 Tm (Se valora la claridad y el uso correcto de la notación.) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 627.89 Tm (Ejercicio 1. Conjuntos numéricos e intervalos   \(2 puntos\)) Tj ET
+BT /F2 11 Tf 1 0 0 1 70.00 608.89 Tm (a\) Indica si cada afirmación es verdadera \(V\) o falsa \(F\):) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 591.89 Tm (-3 ? ?      ?2 ? ?      5/2 ? ?      0 ? ?      ? ? ?      -7 ? ?) Tj ET
+76.00 568.89 m 539.28 568.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 550.89 m 539.28 550.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F2 11 Tf 1 0 0 1 70.00 531.89 Tm (b\) Clasifica cada número en el menor conjunto al que pertenece \(?, ?, ? o ?\):) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 514.89 Tm (7 ,   -4 ,   3/5 ,   ?9 ,   ?5 ,   2,333... ,   -1,25 ,   ?) Tj ET
+76.00 491.89 m 539.28 491.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 473.89 m 539.28 473.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F2 11 Tf 1 0 0 1 70.00 454.89 Tm (c\) Completa con ? o ? \(está o no contenido\):) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 437.89 Tm (? __ ?        ? __ ?        ? __ ?        ? __ ?) Tj ET
+76.00 414.89 m 539.28 414.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 396.89 m 539.28 396.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F2 11 Tf 1 0 0 1 70.00 377.89 Tm (d\) Representa en la recta real y expresa como intervalo \(usa punto relleno ? si el extremo se) Tj ET
+BT /F2 11 Tf 1 0 0 1 70.00 362.89 Tm (incluye y punto sin rellenar ? si no\):) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 345.89 Tm (d1\) x ? -2        d2\) -3 < x ? 4        d3\) x < 5) Tj ET
+76.00 322.89 m 539.28 322.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 304.89 m 539.28 304.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 286.89 m 539.28 286.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F2 11 Tf 1 0 0 1 70.00 267.89 Tm (e\) Dados A = [-3, 4\) y B = \(1, 7], calcula A ? B y A ? B y represéntalos en la recta.) Tj ET
+76.00 242.89 m 539.28 242.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 224.89 m 539.28 224.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 206.89 m 539.28 206.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F2 13 Tf 1 0 0 1 56.00 183.89 Tm (Ejercicio 2. Potencias   \(2 puntos\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 164.89 Tm (a\) Simplifica y expresa con exponente positivo:  \(2^3 · 2^\(-5\)\) / 2^\(-4\)) Tj ET
+76.00 141.89 m 539.28 141.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 123.89 m 539.28 123.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 105.89 m 539.28 105.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+endstream
+endobj
+10 0 obj
+<< /Length 2546 >>
+stream
+BT /F1 11 Tf 1 0 0 1 70.00 770.89 Tm (b\) Opera y simplifica:  \(x^2·y^\(-3\)\)^2 · \(x^\(-1\)·y^4\)) Tj ET
+76.00 747.89 m 539.28 747.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 729.89 m 539.28 729.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 711.89 m 539.28 711.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 692.89 Tm (c\) Calcula sin calculadora:  27^\(2/3\) + 16^\(-1/2\)) Tj ET
+76.00 669.89 m 539.28 669.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 651.89 m 539.28 651.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 633.89 m 539.28 633.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 614.89 Tm (d\) Expresa como una sola potencia:  \(a^5 : a^2\)^3 · a^\(-4\)) Tj ET
+76.00 591.89 m 539.28 591.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 573.89 m 539.28 573.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 555.89 m 539.28 555.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F2 13 Tf 1 0 0 1 56.00 532.89 Tm (Ejercicio 3. Radicales   \(2 puntos\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 513.89 Tm (a\) Extrae factores del radical:  ?\(72\)) Tj ET
+76.00 490.89 m 539.28 490.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 472.89 m 539.28 472.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 453.89 Tm (b\) Opera:  3?2 + ?8 - ?50) Tj ET
+76.00 430.89 m 539.28 430.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 412.89 m 539.28 412.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 394.89 m 539.28 394.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 375.89 Tm (c\) Expresa como raíz única y simplifica:  ?2 · ³?2) Tj ET
+76.00 352.89 m 539.28 352.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 334.89 m 539.28 334.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 316.89 m 539.28 316.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 297.89 Tm (d\) Simplifica el radical:  ??\(16·x^8\)) Tj ET
+76.00 274.89 m 539.28 274.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 256.89 m 539.28 256.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F2 13 Tf 1 0 0 1 56.00 233.89 Tm (Ejercicio 4. Racionalización   \(2 puntos\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 214.89 Tm (a\) Racionaliza:  5 / ?3) Tj ET
+76.00 191.89 m 539.28 191.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 173.89 m 539.28 173.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 155.89 m 539.28 155.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 136.89 Tm (b\) Racionaliza:  6 / \(2?5\)) Tj ET
+76.00 113.89 m 539.28 113.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 95.89 m 539.28 95.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 77.89 m 539.28 77.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+endstream
+endobj
+11 0 obj
+<< /Length 2062 >>
+stream
+BT /F1 11 Tf 1 0 0 1 70.00 770.89 Tm (c\) Racionaliza usando el conjugado:  2 / \(?5 - ?3\)) Tj ET
+76.00 747.89 m 539.28 747.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 729.89 m 539.28 729.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 711.89 m 539.28 711.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 692.89 Tm (d\) Racionaliza:  \(1 + ?2\) / \(1 - ?2\)) Tj ET
+76.00 669.89 m 539.28 669.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 651.89 m 539.28 651.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 633.89 m 539.28 633.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F2 13 Tf 1 0 0 1 56.00 610.89 Tm (Ejercicio 5. Logaritmos   \(2 puntos\)) Tj ET
+BT /F1 11 Tf 1 0 0 1 70.00 591.89 Tm (a\) Calcula aplicando la definición:  log_2\(32\) ,  log_3\(1/9\) ,  log\(0,001\)) Tj ET
+76.00 568.89 m 539.28 568.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 550.89 m 539.28 550.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 532.89 m 539.28 532.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 513.89 Tm (b\) Halla la base x:  log_x\(125\) = 3) Tj ET
+76.00 490.89 m 539.28 490.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 472.89 m 539.28 472.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 453.89 Tm (c\) Desarrolla aplicando las propiedades:  log\( a^2·?b / c \)) Tj ET
+76.00 430.89 m 539.28 430.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 412.89 m 539.28 412.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 394.89 m 539.28 394.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 375.89 Tm (d\) Comprime en un solo logaritmo:  2·log x + log y - log 5) Tj ET
+76.00 352.89 m 539.28 352.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 334.89 m 539.28 334.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 316.89 m 539.28 316.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+BT /F1 11 Tf 1 0 0 1 70.00 297.89 Tm (e\) Sabiendo que log2 ? 0,3010 y log3 ? 0,4771, calcula  log 12) Tj ET
+76.00 274.89 m 539.28 274.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 256.89 m 539.28 256.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+76.00 238.89 m 539.28 238.89 l 0.4 w 0.6 0.6 0.6 RG S 0 0 0 RG
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000230 00000 n 
+0000000332 00000 n 
+0000000437 00000 n 
+0000000589 00000 n 
+0000000742 00000 n 
+0000000895 00000 n 
+0000004018 00000 n 
+0000006617 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+8732
+%%EOF
