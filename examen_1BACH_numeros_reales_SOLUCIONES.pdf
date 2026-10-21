@@ -1,0 +1,77 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [6 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 3734 >>
+stream
+BT /F2 20 Tf 1 0 0 1 110.24 759.89 Tm (Examen de Matem·ticas ó SOLUCIONES) Tj ET
+BT /F3 11 Tf 1 0 0 1 206.56 740.89 Tm (1∫ de Bachillerato ∑ Hoja del profesor) Tj ET
+56 730.89 m 539.28 730.89 l 0.6 w S
+BT /F2 13 Tf 1 0 0 1 56.00 703.89 Tm (Ejercicio 1. Representa los siguientes conjuntos en la recta real   \(2,5 puntos\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 684.89 Tm (a\) \(-3,-1\): entre -3 y -1, ambos ? \(abiertos\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 667.89 Tm (b\) [4,+?\): desde 4 \(?\) hacia la derecha) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 650.89 Tm (c\) \(3,9]: de 3 \(?\) a 9 \(?\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 633.89 Tm (d\) \(-?,0\): hasta 0 \(?\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 616.89 Tm (e\) [-2,5]: de -2 \(?\) a 5 \(?\)  \(la condiciÛn -2?x?5 es intervalo cerrado\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 599.89 Tm (f\) [-2,5\)?\(5,7]: de -2\(?\) a 5\(?\), y de 5\(?\) a 7\(?\)  -> todo [-2,7] salvo el punto 5) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 582.89 Tm (g\) \(-?,0\)?\(3,+?\): hasta 0 \(?\) y desde 3 \(?\) en adelante) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 565.89 Tm (h\) \(-?,1\)?\(1,+?\): toda la recta salvo el punto x=1) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 544.89 Tm (Ejercicio 2. Averigua y representa para quÈ valores de x se cumplen   \(2,5 puntos\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 525.89 Tm (a\) |x|=5  ->  x = 5 y x = -5  \(dos puntos\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 508.89 Tm (b\) |x|?5  ->  -5 ? x ? 5  = [-5, 5]) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 491.89 Tm (c\) |x-4|=2  ->  x-4=2 o x-4=-2  ->  x = 6 y x = 2) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 474.89 Tm (d\) |x-4|?2  ->  -2 ? x-4 ? 2  ->  2 ? x ? 6  = [2, 6]) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 457.89 Tm (e\) |x-4|>2  ->  x<2 o x>6  = \(-?,2\) ? \(6,+?\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 440.89 Tm (f\) |x+4|>5  ->  x+4>5 o x+4<-5  ->  x>1 o x<-9  = \(-?,-9\) ? \(1,+?\)) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 419.89 Tm (Ejercicio 8. Suma y simplifica   \(2,5 puntos\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 400.89 Tm (a\) \(5+3+2\)?x = 10?x) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 383.89 Tm (b\) 3?2 + 5?2 - ?2 = 7?2   \(?18=3?2, ?50=5?2... aquÌ ?\(9∑2\)=3?2, ?\(25∑2\)=5?2\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 366.89 Tm (c\) ?18+?50-?2-?8 = 3?2+5?2-?2-2?2 = 5?2) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 349.89 Tm (d\) ?27-?50+?12+?8 = 3?3-5?2+2?3+2?2 = 5?3 - 3?2) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 332.89 Tm (e\) ?\(50a\)-?\(18a\) = 5?\(2a\) - 3?\(2a\) = 2?\(2a\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 315.89 Tm (f\) ≥?16+≥?54-≥?250 = 2≥?2 + 3≥?2 - 5≥?2 = 0) Tj ET
+BT /F2 13 Tf 1 0 0 1 56.00 294.89 Tm (Ejercicio 10. Racionaliza denominadores y simplifica   \(2,5 puntos\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 275.89 Tm (a\) 1/\(?2+1\)∑\(?2-1\)/\(?2-1\) = \(?2-1\)/\(2-1\) = ?2 - 1) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 258.89 Tm (b\) \(x+y\)/\(?x+?y\)∑\(?x-?y\)/\(?x-?y\) = \(x+y\)\(?x-?y\)/\(x-y\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 241.89 Tm (c\) \(a-1\)/\(?a-1\)∑\(?a+1\)/\(?a+1\) = \(a-1\)\(?a+1\)/\(a-1\) = ?a + 1) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 224.89 Tm (d\) \(?x+?y\)/\(?x-?y\)∑\(?x+?y\)/\(?x+?y\) = \(?x+?y\)^2/\(x-y\) = \(x+y+2?\(xy\)\)/\(x-y\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 207.89 Tm (e\) 1/\(2?3-?5\)∑\(2?3+?5\)/\(2?3+?5\) = \(2?3+?5\)/\(12-5\) = \(2?3+?5\)/7) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 190.89 Tm (f\) ∑\(3?2+2?3\)/\(3?2+2?3\) = \(3?2+2?3\)^2/\(18-12\) = \(18+12?6+12\)/6 = \(30+12?6\)/6 = 5+2?6) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 173.89 Tm (g\) 1/?2 = ?2/2 ; 1/\(?2-1\)=?2+1 ; 1/\(?2+1\)=?2-1) Tj ET
+BT /F1 10 Tf 1 0 0 1 76.00 156.89 Tm (Suma: ?2/2 + \(?2+1\) + \(?2-1\) = ?2/2 + 2?2 = \(?2 + 4?2\)/2 = 5?2/2) Tj ET
+56 144.89 m 539.28 144.89 l 0.6 w S
+BT /F3 10 Tf 1 0 0 1 56.00 121.89 Tm (PuntuaciÛn orientativa: 4 ejercicios ∑ 2,5 puntos cada uno = 10 puntos.) Tj ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000425 00000 n 
+0000000577 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4363
+%%EOF
